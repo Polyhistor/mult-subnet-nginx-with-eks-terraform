@@ -1,0 +1,2 @@
+.terraform/**/*
+terraform-eks-example/learn-terraform-provision-eks-cluster/.terraform/**/*
